@@ -1,0 +1,137 @@
+{
+  "facebook": [
+    {
+      "name": "Facebook Followers",
+      "description": "High-quality followers for your Facebook profile or page",
+      "price": 85,
+      "per": "1,000 followers"
+    },
+    {
+      "name": "Facebook Reaction",
+      "description": "Get reactions on your Facebook posts (👍❤😆😯🥲😡)",
+      "price": 60,
+      "per": "1,000 reactions"
+    },
+    {
+      "name": "Facebook Video Views",
+      "description": "Boost views on your Facebook videos",
+      "price": 10,
+      "per": "1,000 views"
+    },
+    {
+      "name": "🇧🇩 Facebook Reaction (Bangladesh)",
+      "description": "🇧🇩 reactions for your Facebook posts (👍❤😆😯🥲😡)",
+      "price": 160,
+      "per": "1,000 reactions"
+    },
+    {
+      "name": "🇧🇩 Facebook Followers (Bangladesh)",
+      "description": "🇧🇩 followers for your Facebook profile or page (local, high-quality)",
+      "price": 130,
+      "per": "1,000 followers"
+    },
+    {
+      "name": "🇧🇩 Facebook Page Like + Follower (Bangladesh)",
+      "description": "🇧🇩 page likes and followers for your Facebook page (local, high-quality)",
+      "price": 150,
+      "per": "1,000 likes + followers"
+    },
+    {
+      "name": "Facebook Live Stream Viewers",
+      "description": "Get live viewers for your Facebook stream. Select Platinum (15 min), Gold (30 min), or Diamond (45 min)",
+      "price": 80,
+      "per": "1,000 viewers",
+      "liveOptions": [
+        { "label": "Platinum (15 min)", "price": 80 },
+        { "label": "Gold (30 min)", "price": 150 },
+        { "label": "Diamond (45 min)", "price": 200 }
+      ]
+    }
+  ],
+  "instagram": [
+    {
+      "name": "Instagram Likes",
+      "description": "Increase likes on your Instagram posts",
+      "price": 5,
+      "per": "1,000 likes"
+    },
+    {
+      "name": "Instagram Views",
+      "description": "Boost views on your Instagram videos",
+      "price": 1,
+      "per": "1,000 views"
+    },
+    {
+      "name": "Instagram Followers",
+      "description": "Real, active followers for your Instagram profile",
+      "price": 120,
+      "per": "1,000 followers"
+    },
+    {
+      "name": "Instagram Story Views",
+      "description": "Get more views on your Instagram stories",
+      "price": 5,
+      "per": "1,000 views"
+    }
+  ],
+  "youtube": [
+    {
+      "name": "YouTube Likes",
+      "description": "Get more likes on your YouTube videos",
+      "price": 20,
+      "per": "1,000 likes"
+    },
+    {
+      "name": "YouTube Subscribers",
+      "description": "Grow your YouTube channel with real subscribers",
+      "price": 200,
+      "per": "1,000 subscribers"
+    }
+  ],
+  "tiktok": [
+    {
+      "name": "TikTok Likes",
+      "description": "Increase likes on your TikTok videos",
+      "price": 10,
+      "per": "1,000 likes"
+    },
+    {
+      "name": "TikTok Views",
+      "description": "Boost views on your TikTok videos",
+      "price": 0.5,
+      "per": "1,000 views"
+    },
+    {
+      "name": "TikTok Followers",
+      "description": "Grow your TikTok account with real followers",
+      "price": 130,
+      "per": "1,000 followers"
+    },
+    {
+      "name": "TikTok Shares",
+      "description": "Get more shares for your TikTok content",
+      "price": 5,
+      "per": "1,000 shares"
+    }
+  ],
+  "telegram": [
+    {
+      "name": "Telegram Members",
+      "description": "Increase members in your Telegram channel or group",
+      "price": 60,
+      "per": "1,000 members"
+    },
+    {
+      "name": "Telegram Mix Positive Reaction",
+      "description": "Add a mix of positive reactions to your Telegram posts (👍❤😯)",
+      "price": 40,
+      "per": "1,000 reactions"
+    },
+    {
+      "name": "Telegram Post Views",
+      "description": "Boost views on your Telegram channel posts",
+      "price": 20,
+      "per": "1,000 views"
+    }
+  ]
+} 
