@@ -92,13 +92,13 @@
     {
       "name": "TikTok Likes",
       "description": "Increase likes on your TikTok videos",
-      "price": 10,
+      "price": 8,
       "per": "1,000 likes"
     },
     {
       "name": "TikTok Views",
       "description": "Boost views on your TikTok videos",
-      "price": 0.5,
+      "price": 1,
       "per": "1,000 views"
     },
     {
@@ -134,4 +134,5 @@
       "per": "1,000 views"
     }
   ]
+
 } 
