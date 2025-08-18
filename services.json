@@ -8,7 +8,7 @@
     },
     {
       "name": "Facebook Reaction",
-      "description": "Get reactions on your Facebook posts (👍❤😆😯🥲😡)",
+      "description": "Get reactions on your Facebook posts (👍❤️😆😯🥲😡)",
       "price": 50,
       "per": "1,000 reactions"
     },
@@ -136,5 +136,6 @@
   ]
 
 } 
+
 
 
