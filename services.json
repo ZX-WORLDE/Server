@@ -84,7 +84,7 @@
     {
       "name": "YouTube Subscribers",
       "description": "Grow your YouTube channel with real subscribers",
-      "price": 200,
+      "price": 0,
       "per": "1,000 subscribers"
     }
   ],
@@ -136,6 +136,7 @@
   ]
 
 } 
+
 
 
 
